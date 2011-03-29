@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+	android:orientation="vertical"
+	android:background="@drawable/bg"
+	android:layout_gravity="center"
+	android:layout_height="fill_parent" android:id="@+id/mainLayout">
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		android:id="@+id/temperatureContainer2">
+			<TextView android:text="n/a"
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content"
+				android:textSize = "25sp" 
+				android:textColor="#fffdaf"
+				android:layout_marginLeft="4sp"
+				android:layout_marginTop="1sp"
+				android:id="@+id/temperature2"
+				android:textStyle="bold" />
+			<TextView android:text="°C"
+				android:layout_marginTop="-3sp"
+				android:layout_marginLeft="0sp"
+				android:textColor="#fffdaf"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textSize = "12sp"
+				android:id="@+id/celsiusSign2" />
+	</LinearLayout>
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		android:id="@+id/temperatureContainer">
+			<TextView android:text="n/a"
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content"
+				android:textSize = "25sp" 
+				android:textColor="@android:color/black"
+				android:id="@+id/temperature"
+				android:textStyle="bold" />
+			<TextView android:text="°C"
+				android:layout_marginTop="-4sp"
+				android:textColor="@android:color/black"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textSize = "12sp"
+				android:id="@+id/celsiusSign" />
+	</LinearLayout>
+	<TextView android:text="n/a"
+		android:id="@+id/date"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:textSize = "10sp" 
+		android:textColor="@android:color/black"
+		android:gravity="center"
+		android:layout_below="@+id/temperatureContainer"/>
+	<TextView
+		android:text="nonoo.hu"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:id="@+id/location"
+		android:gravity="right"
+		android:textSize = "10sp" 
+		android:textColor="@android:color/white"
+		android:textStyle="bold"
+		android:paddingBottom="15sp"
+		android:paddingRight="9sp"
+		/>
+</RelativeLayout>

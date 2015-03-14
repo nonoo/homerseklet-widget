@@ -1,0 +1,4 @@
+Az otthoni (Tatán lévő) hőmérőm 5 percenként frissített mérését mutatja. Bővebb infó: http://dp.nonoo.hu/measuring-temperature/
+
+![https://market.android.com/publish/images/PQAAAIozKY44Ab4Ke6DLmJdRdauLhYOLJzd3enYFBt3LdoFSroyLg8gN3NTCxTrUSeGFcIOzjKT_cB-V4Hnw5yJ9djAAzfqVaQu1D9CbkwSKcjx3UCAFrbnOuuZX.png](https://market.android.com/publish/images/PQAAAIozKY44Ab4Ke6DLmJdRdauLhYOLJzd3enYFBt3LdoFSroyLg8gN3NTCxTrUSeGFcIOzjKT_cB-V4Hnw5yJ9djAAzfqVaQu1D9CbkwSKcjx3UCAFrbnOuuZX.png)
+![https://market.android.com/publish/images/PQAAALKH9Ts6lZm3HDjh7D_xEPiHYHacMOScj0zIW3uisPxJmai5b_sIugAmNEzW18O1SKEgu83rgxBRXCfsVSrGgw4AzfqVaa3bcqfB6e06gpivjm_AwCy1wPjD.png](https://market.android.com/publish/images/PQAAALKH9Ts6lZm3HDjh7D_xEPiHYHacMOScj0zIW3uisPxJmai5b_sIugAmNEzW18O1SKEgu83rgxBRXCfsVSrGgw4AzfqVaa3bcqfB6e06gpivjm_AwCy1wPjD.png)
